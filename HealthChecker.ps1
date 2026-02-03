@@ -1,6 +1,6 @@
 ﻿####################################################################################################
 # Script Name : HealthChecker.ps1
-# Owner       : Microsoft
+# Owner       : Microsoft : https://microsoft.github.io/CSS-Exchange/Diagnostics/HealthChecker/
 # Description : Script PowerShell permettant de vérifier l'état de santé du serveur exchange 2016/2019/SE
                 # Ce script vérifie le serveur Exchange pour différentes recommandations de configuration décrites dans la section   
 #
@@ -21418,3 +21418,4 @@ function Test-ScriptVersion {
 # 2jnT7/nbl98tlDE2hwAggnZVeRpo4ovSer2A5XRpCbM4FY/esZyxGbCpW/pqk27F
 # vSenzg3Y6YgN
 # SIG # End signature block
+
